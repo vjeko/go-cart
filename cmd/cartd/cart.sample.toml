@@ -1,0 +1,6 @@
+# This is a sample configuration file for the Cart Server API.
+
+# Server settings
+[server]
+port = 8097               # the port the API runs on
+bind-adddress = "0.0.0.0" # the IP address to bind the listener on
